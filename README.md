@@ -55,14 +55,6 @@
 
 ---
 
-### 📈 Live Stats
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhavyasripulikhandam&label=👀+Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/bhavyasripulikhandam?label=Followers&style=for-the-badge" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/bhavyasripulikhandam?label=Stars&style=for-the-badge" alt="Stars"/>
-</p>
-
----
  
 ### 🤝 Let’s Connect
 
