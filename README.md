@@ -45,17 +45,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhavyasripulikhandam&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavyasripulikhandam&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyasripulikhandam&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
 
 ### 🏆 Achievements & Certifications
 - 🥇 **3×Winner – TechXcelerate 2024**, BITS Pilani  
