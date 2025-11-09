@@ -49,8 +49,7 @@
 ### 🏆 Achievements & Certifications
 - 🥇 **3×Winner – TechXcelerate 2024**, BITS Pilani  
 - 🏆 **2×Smart India internalHackathon shortlisted**  
-- ☁️ **Google Cloud Generative AI Certification (2025)**  
-- 💼 **Deloitte Australia Job Simulation (Forage)**  
+ 
  
 
 ---
