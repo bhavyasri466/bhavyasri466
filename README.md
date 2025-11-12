@@ -15,7 +15,6 @@
 - 🎓 **B.Tech CSE Student @ SRM University, AP (2023–2027)**  
 - 💻 Passionate about **Artificial Intelligence, Generative AI, and ML-driven systems**  
 - 💼 Interned at **Timing Technologies (Python Dev)** & **Vascan Solutions (Frontend Dev)**  
-- 🏆 **TechXcelerate (BITS Pilani) Winner**   
 - 🌱 Currently exploring **Neural Architectures**, **AI Applications**, and **Prompt Engineering**  
 - 🚀 Open to **AI/ML Research**, **Tech Fellowships**, and **Collaborative Projects**
 
