@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Bhavya Sri Pulikhandam</h1>
 <h3 align="center">AI × ML × Innovation | Python Developer | SRM University, AP</h3>
 
-<!-- Typing Animation --> 
+<!-- Typing Animation -->  
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=550&lines=AI+%C3%97+ML+Enthusiast;Python+Developer;Generative+AI+Explorer;Continuous+Learner;Problem+Solver" alt="Typing SVG" />
