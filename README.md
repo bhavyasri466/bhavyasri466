@@ -1,7 +1,7 @@
 <!-- Profile Header --> 
 <h1 align="center">Hi 👋, I'm Bhavya Sri Pulikhandam</h1>
 <h3 align="center">AI × ML × Innovation | Python Developer | SRM University, AP</h3>
-
+ 
 <!-- Typing Animation -->  
 <p align="center">
   <a href="https://git.io/typing-svg">
