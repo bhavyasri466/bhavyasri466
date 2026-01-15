@@ -19,7 +19,6 @@
 - 🚀 Open to **AI/ML Research**, **Tech Fellowships**, and **Collaborative Projects**
 
 ---
- 
 ### 🛠️ Tech Stack
 #### 💡 Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -43,8 +42,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
-
 ### 🏆 Achievements & Certifications
 - 🥇 **3×Winner**
 - 🏆 **2×Smart India internalHackathon shortlisted**  
