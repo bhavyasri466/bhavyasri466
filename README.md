@@ -46,7 +46,7 @@
 
 
 ### 🏆 Achievements & Certifications
-- 🥇 **3×Winner – TechXcelerate 2024**, BITS Pilani  
+- 🥇 **3×Winner 
 - 🏆 **2×Smart India internalHackathon shortlisted**  
  
  
