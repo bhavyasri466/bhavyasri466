@@ -46,7 +46,7 @@
 
 
 ### 🏆 Achievements & Certifications
-- 🥇 **3×Winner 
+- 🥇 **3×Winner**
 - 🏆 **2×Smart India internalHackathon shortlisted**  
  
  
