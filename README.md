@@ -10,7 +10,6 @@
 </p>
 
 ---
-
 ### 🧭 About Me
 - 🎓 **B.Tech CSE Student @ SRM University, AP (2023–2027)**  
 - 💻 Passionate about **Artificial Intelligence, Generative AI, and ML-driven systems**  
